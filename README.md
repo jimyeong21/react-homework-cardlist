@@ -17,7 +17,7 @@
 
 ## 구현 결과
 
-<img src="public/etc/images/img-card-result.gif">
+<img src="public/etc/images/img-card-result.png">
 
 ## 느낀점 및 아쉬운점
 
